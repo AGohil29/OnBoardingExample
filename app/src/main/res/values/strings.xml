@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OnBoardingExample</string>
+
+    <string name="demo_title">Lorem Ipsum</string>
+    <string name="demo_content">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</string>
+
+</resources>
